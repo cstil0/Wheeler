@@ -1,0 +1,2 @@
+1
+data/color-atlas-new.png,data/Entities/Car/Car-Wheel.obj,3.2f,3.7f,-79.3f,wheel
